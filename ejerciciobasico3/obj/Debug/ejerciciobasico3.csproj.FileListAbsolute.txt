@@ -1,0 +1,8 @@
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERCICIOS BASICOS C#\ejerciciobasico3\ejerciciobasico3\bin\Debug\ejerciciobasico3.exe.config
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERCICIOS BASICOS C#\ejerciciobasico3\ejerciciobasico3\bin\Debug\ejerciciobasico3.exe
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERCICIOS BASICOS C#\ejerciciobasico3\ejerciciobasico3\bin\Debug\ejerciciobasico3.pdb
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERCICIOS BASICOS C#\ejerciciobasico3\ejerciciobasico3\obj\Debug\ejerciciobasico3.csproj.AssemblyReference.cache
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERCICIOS BASICOS C#\ejerciciobasico3\ejerciciobasico3\obj\Debug\ejerciciobasico3.csproj.SuggestedBindingRedirects.cache
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERCICIOS BASICOS C#\ejerciciobasico3\ejerciciobasico3\obj\Debug\ejerciciobasico3.csproj.CoreCompileInputs.cache
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERCICIOS BASICOS C#\ejerciciobasico3\ejerciciobasico3\obj\Debug\ejerciciobasico3.exe
+E:\2021 II - FiveCod Software\EJERCICIOS C#\EJERCICIOS BASICOS C#\ejerciciobasico3\ejerciciobasico3\obj\Debug\ejerciciobasico3.pdb
